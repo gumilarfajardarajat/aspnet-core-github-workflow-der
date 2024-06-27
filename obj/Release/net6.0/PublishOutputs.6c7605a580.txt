@@ -1,0 +1,7 @@
+D:\3. PERSONAL PROJECT\.NET\aspnet-core-github-workflow-der\out\aspnet-core-github-workflow-der.exe
+D:\3. PERSONAL PROJECT\.NET\aspnet-core-github-workflow-der\out\appsettings.Development.json
+D:\3. PERSONAL PROJECT\.NET\aspnet-core-github-workflow-der\out\appsettings.json
+D:\3. PERSONAL PROJECT\.NET\aspnet-core-github-workflow-der\out\aspnet-core-github-workflow-der.dll
+D:\3. PERSONAL PROJECT\.NET\aspnet-core-github-workflow-der\out\aspnet-core-github-workflow-der.deps.json
+D:\3. PERSONAL PROJECT\.NET\aspnet-core-github-workflow-der\out\aspnet-core-github-workflow-der.runtimeconfig.json
+D:\3. PERSONAL PROJECT\.NET\aspnet-core-github-workflow-der\out\aspnet-core-github-workflow-der.pdb
